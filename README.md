@@ -1,7 +1,7 @@
 # AI-Study
 **Target** : AI-Study to Understand various and essential concepts of models
 **Members** : 
-  * [SeungHee]()
+  * [SeungHee](https://github.com/Seunghui98)
   * [JinWoo]()
   * [Hojin](https://github.com/junghojin)
 
